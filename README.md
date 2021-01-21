@@ -5,7 +5,4 @@
 Ši šaka skirta tik puslapio dizaino kūrimui  
 Sveitainės logika sukuriama [master](https://github.com/iearnziezmariai/IearnTinklapis) šakoje
 
-Savo kodą dėkite čia
-
-
-komunikabilusis orangutangiukas
+Savo kodą dėkite čia.
